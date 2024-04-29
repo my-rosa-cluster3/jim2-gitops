@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jag2-repository
+spec:
+  url: https://github.com/my-rosa-cluster3/jim2
